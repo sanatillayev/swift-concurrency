@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		041B2D1F2B90C8C30036941F /* AsyncStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B2D1E2B90C8C30036941F /* AsyncStream.swift */; };
+		041B2D232B9586320036941F /* ObservableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B2D222B9586320036941F /* ObservableBootcamp.swift */; };
 		0431A3752AF212D800D869AC /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3742AF212D800D869AC /* TaskGroupBootcamp.swift */; };
 		0431A3772AF232E700D869AC /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3762AF232E700D869AC /* CheckedContinuation.swift */; };
 		0431A3792AF24FDE00D869AC /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3782AF24FDE00D869AC /* StructClassActorBootcamp.swift */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		041B2D1E2B90C8C30036941F /* AsyncStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStream.swift; sourceTree = "<group>"; };
+		041B2D222B9586320036941F /* ObservableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableBootcamp.swift; sourceTree = "<group>"; };
 		0431A3742AF212D800D869AC /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
 		0431A3762AF232E700D869AC /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		0431A3782AF24FDE00D869AC /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				04F171F42AFC1E6900250DFD /* Searchable.swift */,
 				04F171F62AFCEFF500250DFD /* PhotoPicker.swift */,
 				041B2D1E2B90C8C30036941F /* AsyncStream.swift */,
+				041B2D222B9586320036941F /* ObservableBootcamp.swift */,
 				0466FCBF2ADE58F400F9CEE5 /* Assets.xcassets */,
 				0466FCC12ADE58F400F9CEE5 /* Preview Content */,
 			);
@@ -194,6 +197,7 @@
 				0466FCCC2ADE6B4500F9CEE5 /* DownloadImageAsync.swift in Sources */,
 				0466FCCA2ADE5A9900F9CEE5 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				0466FCBE2ADE58F100F9CEE5 /* ContentView.swift in Sources */,
+				041B2D232B9586320036941F /* ObservableBootcamp.swift in Sources */,
 				0477A5DB2AF36C470070DC3E /* SendableBootcamp.swift in Sources */,
 				0477A5D72AF2BB9F0070DC3E /* ActorsBootcamp.swift in Sources */,
 				0466FCD02ADECC6D00F9CEE5 /* TaskBootcamp.swift in Sources */,
@@ -347,6 +351,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -376,6 +381,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
