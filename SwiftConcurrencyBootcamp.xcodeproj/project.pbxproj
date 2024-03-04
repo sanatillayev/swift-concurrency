@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041B2D1F2B90C8C30036941F /* AsyncStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B2D1E2B90C8C30036941F /* AsyncStream.swift */; };
 		0431A3752AF212D800D869AC /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3742AF212D800D869AC /* TaskGroupBootcamp.swift */; };
 		0431A3772AF232E700D869AC /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3762AF232E700D869AC /* CheckedContinuation.swift */; };
 		0431A3792AF24FDE00D869AC /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431A3782AF24FDE00D869AC /* StructClassActorBootcamp.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		041B2D1E2B90C8C30036941F /* AsyncStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStream.swift; sourceTree = "<group>"; };
 		0431A3742AF212D800D869AC /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
 		0431A3762AF232E700D869AC /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		0431A3782AF24FDE00D869AC /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				0477A5E22AF386B60070DC3E /* Refreshable.swift */,
 				04F171F42AFC1E6900250DFD /* Searchable.swift */,
 				04F171F62AFCEFF500250DFD /* PhotoPicker.swift */,
+				041B2D1E2B90C8C30036941F /* AsyncStream.swift */,
 				0466FCBF2ADE58F400F9CEE5 /* Assets.xcassets */,
 				0466FCC12ADE58F400F9CEE5 /* Preview Content */,
 			);
@@ -202,6 +205,7 @@
 				0466FCBC2ADE58F100F9CEE5 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				0477A5DF2AF379CD0070DC3E /* StrongSelfBootcamp.swift in Sources */,
 				04F171F72AFCEFF500250DFD /* PhotoPicker.swift in Sources */,
+				041B2D1F2B90C8C30036941F /* AsyncStream.swift in Sources */,
 				04F171F52AFC1E6900250DFD /* Searchable.swift in Sources */,
 				0466FCD22ADEF9B000F9CEE5 /* AsyncLetBootcamp.swift in Sources */,
 				0431A3772AF232E700D869AC /* CheckedContinuation.swift in Sources */,
